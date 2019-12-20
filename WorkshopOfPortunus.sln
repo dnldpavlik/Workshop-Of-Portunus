@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29609.76
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WorkshopOfPortunus", "WorkshopOfPortunus\WorkshopOfPortunus.csproj", "{F500142C-213A-44C8-AF2F-89ADAF1CCE89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F500142C-213A-44C8-AF2F-89ADAF1CCE89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F500142C-213A-44C8-AF2F-89ADAF1CCE89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F500142C-213A-44C8-AF2F-89ADAF1CCE89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F500142C-213A-44C8-AF2F-89ADAF1CCE89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D611C54B-D29E-489B-BD78-4C8C2DCA0F31}
+	EndGlobalSection
+EndGlobal
